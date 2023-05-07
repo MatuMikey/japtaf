@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "japtaf"
+version = "0.0.1"
+description = ""
+authors = ["michael.matusowsky <michael.matusowsky@alemira.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
